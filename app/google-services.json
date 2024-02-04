@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510807582280",
+    "project_id": "chatapp-dee4a",
+    "storage_bucket": "chatapp-dee4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510807582280:android:605ce045068e41be9b5a7d",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPVeOBYNgp7w44St3BTHod118atH7ncao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
